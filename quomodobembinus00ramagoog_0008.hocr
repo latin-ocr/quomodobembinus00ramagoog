@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quomodobembinus00ramagoog_0008.png"; bbox 0 0 3360 5656; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 15 2168 1315 2591">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 15 2168 1315 2591">
+     <span class='ocr_line' id='line_1_1' title="bbox 113 2168 1116 2274; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 113 2180 116 2189; x_wconf 48' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_2' title='bbox 394 2168 652 2274; x_wconf 76' lang='lat' dir='ltr'>QUOMODO</span> <span class='ocrx_word' id='word_1_3' title='bbox 675 2169 1116 2270; x_wconf 69' lang='lat' dir='ltr'><strong>BEMsslNUsussER</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 15 2428 1315 2591; baseline -0.014 0"><span class='ocrx_word' id='word_1_4' title='bbox 15 2571 27 2591; x_wconf 82' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 195 2429 264 2573; x_wconf 74' lang='lat' dir='ltr'><strong>An</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 304 2428 601 2574; x_wconf 60' lang='lat' dir='ltr'><strong>mmmm</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 642 2430 883 2575; x_wconf 71' lang='grc' dir='ltr'><strong>ΤΕΒΕΝΤΙΙ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 924 2430 1315 2578; x_wconf 72' lang='lat' dir='ltr'>RESTITUENDAM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 536 2758 978 2843">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 536 2758 978 2843">
+     <span class='ocr_line' id='line_1_3' title="bbox 536 2758 978 2843; baseline 0.009 -5"><span class='ocrx_word' id='word_1_9' title='bbox 536 2758 870 2842; x_wconf 83' lang='lat' dir='ltr'>ADHIBENDUS</span> <span class='ocrx_word' id='word_1_10' title='bbox 901 2761 978 2843; x_wconf 90' lang='lat' dir='ltr'><strong>SIT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1684 5656">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1684 5656">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1684 5656; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1684 5656; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
